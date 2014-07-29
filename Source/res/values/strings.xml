@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MapBoxApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mapBox">Enter your MapBox ID here</string>
+    <string name="button_submit">Apply</string>
+    <string name="revert">Revert to Defalt map</string>
+    
+    <string-array name="gps_ops">
+        <item>GPS Off</item>
+        <item>GPS On</item>
+        <item>GPS and Track On</item>
+    </string-array>
+    
+</resources>
